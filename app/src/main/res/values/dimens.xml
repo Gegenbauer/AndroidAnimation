@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_icon_size">24dp</dimen>
+    <dimen name="car_bg_radius">20dp</dimen>
+    <dimen name="center_point_radius">13dp</dimen>
+    <!-- 13 + 102 + 20 = 135 -->
+    <dimen name="progress_bar_radius">135dp</dimen>
+    <dimen name="progress_bar_width">24dp</dimen>
+    <!-- 145 + 13 + 10 = 168 -->
+    <dimen name="arrow_distance">168dp</dimen>
+</resources>
